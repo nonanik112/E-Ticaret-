@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXtIk4jzI67lcLxshv0Mee8DbqWTTlBLe84XpO3ncO87WPqFlBMchMSd+nYY45GcHZEPuEEUZN7egXkSKWC5hA==",
+  "dgSpecHash": "2IPHQbCQnP9TJhh7NpgCUZxiwNXrnYh5JegHy/QEdXPGAr4Hxd/OBACF3G9A57SygtvwN6PiUD3BXiUidHja9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
+  "projectFilePath": "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Metehan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Metehan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

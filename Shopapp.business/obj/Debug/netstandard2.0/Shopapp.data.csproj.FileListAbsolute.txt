@@ -1,0 +1,5 @@
+D:\Belgelerim\Karışık\C#\ABG__\Shopapp.business\bin\Debug\netstandard2.0\Shopapp.data.deps.json
+D:\Belgelerim\Karışık\C#\ABG__\Shopapp.business\bin\Debug\netstandard2.0\Shopapp.data.dll
+D:\Belgelerim\Karışık\C#\ABG__\Shopapp.business\obj\Debug\netstandard2.0\Shopapp.data.csprojAssemblyReference.cache
+D:\Belgelerim\Karışık\C#\ABG__\Shopapp.business\obj\Debug\netstandard2.0\Shopapp.data.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\C#\ABG__\Shopapp.business\obj\Debug\netstandard2.0\Shopapp.data.AssemblyInfo.cs

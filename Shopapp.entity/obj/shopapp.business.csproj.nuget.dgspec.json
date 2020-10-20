@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\shopapp.business.csproj": {}
+    "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\shopapp.business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\shopapp.business.csproj": {
+    "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\shopapp.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
+        "projectUniqueName": "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
         "projectName": "shopapp.business",
-        "projectPath": "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
+        "projectPath": "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\shopapp.business.csproj",
         "packagesPath": "C:\\Users\\Metehan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Metehan\\source\\repos\\ABG__\\Shopapp.entity\\obj\\",
+        "outputPath": "D:\\Belgelerim\\Karışık\\C#\\ABG__\\Shopapp.entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

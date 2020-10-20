@@ -1,9 +1,12 @@
-﻿using shopapp.entity;
+﻿using System.Collections.Generic;
+using shopapp.entity;
 
 namespace shopapp.data.Abstract
 {
-    public interface IOrderRepository : IRepository<Order>
+    public interface ICategoryRepository : IRepository<Category>
     {
+        Category GetByIdWithProducts(int categoryId);
 
+        void DeleteFromCategory(int productId, int categoryId);
     }
 }
